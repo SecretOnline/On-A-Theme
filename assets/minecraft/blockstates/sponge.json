@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "wet=false": [
+        { "model": "sponge" },
+            { "model": "sponge", "y": 90 },
+            { "model": "sponge", "y": 180 },
+            { "model": "sponge", "y": 270 }
+        ],
+        "wet=true": [
+        { "model": "sponge_wet" },
+            { "model": "sponge_wet", "y": 90 },
+            { "model": "sponge_wet", "y": 180 },
+            { "model": "sponge_wet", "y": 270 }
+        ]
+    }
+}

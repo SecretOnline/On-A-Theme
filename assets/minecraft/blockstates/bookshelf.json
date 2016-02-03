@@ -1,0 +1,12 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+            { "model": "bookshelf" },
+            { "model": "bookshelf_1" },
+            { "model": "bookshelf_2" },
+            { "model": "bookshelf_3" },
+            { "model": "bookshelf_4" }
+        ]
+    }
+}
