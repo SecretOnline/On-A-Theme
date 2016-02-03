@@ -1,0 +1,31 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+        { "model": "waterlily", "weight": 40 },
+            { "model": "waterlily", "y": 90, "weight": 40 },
+            { "model": "waterlily", "y": 180, "weight": 40 },
+            { "model": "waterlily", "y": 270, "weight": 40 },
+        { "model": "waterlily_diag", "weight": 40 },
+            { "model": "waterlily_diag", "y": 90, "weight": 40 },
+            { "model": "waterlily_diag", "y": 180, "weight": 40 },
+            { "model": "waterlily_diag", "y": 270, "weight": 40 },
+	    { "model": "waterlily_pink_flower", "weight": 8 },
+            { "model": "waterlily_pink_flower", "y": 90, "weight": 8 },
+            { "model": "waterlily_pink_flower", "y": 180, "weight": 8 },
+            { "model": "waterlily_pink_flower", "y": 270, "weight": 8 },
+	    { "model": "waterlily_white_flower", "weight": 2 },
+            { "model": "waterlily_white_flower", "y": 90, "weight": 2 },
+            { "model": "waterlily_white_flower", "y": 180, "weight": 2 },
+            { "model": "waterlily_white_flower", "y": 270, "weight": 2 },
+        { "model": "waterlily_pink_flower_diag", "weight": 8 },
+            { "model": "waterlily_pink_flower_diag", "y": 90, "weight": 8 },
+            { "model": "waterlily_pink_flower_diag", "y": 180, "weight": 8 },
+            { "model": "waterlily_pink_flower_diag", "y": 270, "weight": 8 },
+	    { "model": "waterlily_white_flower_diag", "weight": 2 },
+            { "model": "waterlily_white_flower_diag", "y": 90, "weight": 2 },
+            { "model": "waterlily_white_flower_diag", "y": 180, "weight": 2 },
+            { "model": "waterlily_white_flower_diag", "y": 270, "weight": 2 }
+        ]
+    }
+}
