@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "flower_allium", "weight": 3 },
+            { "model": "flowers/allium/allium_bright_pink" },
+            { "model": "flowers/allium/allium_more_purple", "weight": 3 },
+            { "model": "flowers/allium/allium_more_sat", "weight": 2 },
+            { "model": "flowers/allium/allium_pinkpurple" },
+            { "model": "flowers/allium/allium_pinkred" },
+            { "model": "flowers/allium/allium_slight_blue", "weight": 3 },
+            { "model": "flowers/allium/allium_slight_pink" },
+            { "model": "flowers/allium/allium_slight_purple", "weight": 3 },
+            { "model": "flowers/allium/allium_slight_sat", "weight": 3 }
+        ]
+    }
+}

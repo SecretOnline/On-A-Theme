@@ -1,0 +1,6 @@
+{
+    "parent": "block/allium",
+    "textures": {
+        "cross": "blocks/flowers/allium/allium_slight_purple"
+    }
+}
