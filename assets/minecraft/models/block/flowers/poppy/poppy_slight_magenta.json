@@ -1,0 +1,6 @@
+{
+    "parent": "block/poppy",
+    "textures": {
+        "cross": "blocks/flowers/poppy/poppy_slight_magenta"
+    }
+}
