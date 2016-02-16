@@ -2,7 +2,7 @@
     "variants": {
         "normal": [
             { "model": "cactus", "weight": 9 },
-            { "model": "cactus_flower", "weight": 1 }
+            { "model": "flowers/cactus/cactus_flower", "weight": 1 }
         ]
     }
 }

@@ -2,9 +2,9 @@
     "variants": {
         "normal": [
             { "model": "emerald_ore" },
-            { "model": "emerald_ore_1" },
-            { "model": "emerald_ore_2" },
-            { "model": "emerald_ore_3" }
+            { "model": "ores/emerald/emerald_ore_1" },
+            { "model": "ores/emerald/emerald_ore_2" },
+            { "model": "ores/emerald/emerald_ore_3" }
         ]
     }
 }

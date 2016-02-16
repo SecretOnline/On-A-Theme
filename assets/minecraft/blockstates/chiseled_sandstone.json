@@ -2,15 +2,15 @@
     "variants": {
         "normal": [
             { "model": "sandstone_chiseled", "weight": 100 },
-            { "model": "sandstone_chiseled_skelly", "weight": 100 },
-            { "model": "sandstone_chiseled_ghast", "weight": 100 },
-            { "model": "sandstone_chiseled_pig", "weight": 100 },
-            { "model": "sandstone_chiseled_steve", "weight": 100 },
-            { "model": "sandstone_chiseled_slime", "weight": 100 },
-            { "model": "sandstone_chiseled_spider", "weight": 100 },
-            { "model": "sandstone_chiseled_enderman", "weight": 100 },
-            { "model": "sandstone_chiseled_villager", "weight": 100 },
-            { "model": "sandstone_chiseled_herobrine", "weight": 1 }
+            { "model": "chiseled_sandstone/sandstone_chiseled_skelly", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_ghast", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_pig", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_steve", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_slime", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_spider", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_enderman", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_villager", "weight": 100 },
+            { "model": "chiseled_sandstone/sandstone_chiseled_herobrine", "weight": 1 }
         ]
     }
 }

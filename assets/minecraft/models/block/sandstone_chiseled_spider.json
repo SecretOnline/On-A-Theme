@@ -1,8 +1,0 @@
-{
-    "parent": "block/sandstone_chiseled",
-    "textures": {
-        "bottom": "blocks/sandstone_bottom",
-        "top": "blocks/sandstone_top",
-        "side": "blocks/sandstone_carved_spider"
-    }
-}

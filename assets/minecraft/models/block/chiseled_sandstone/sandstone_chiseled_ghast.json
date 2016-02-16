@@ -1,0 +1,8 @@
+{
+    "parent": "block/sandstone_chiseled",
+    "textures": {
+        "bottom": "blocks/sandstone_bottom",
+        "top": "blocks/sandstone_top",
+        "side": "blocks/chiseled_sandstone/sandstone_carved_ghast"
+    }
+}

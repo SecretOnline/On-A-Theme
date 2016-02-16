@@ -1,0 +1,6 @@
+{
+    "parent": "block/emerald_ore",
+    "textures": {
+        "all": "blocks/ores/emerald/emerald_ore_3"
+    }
+}

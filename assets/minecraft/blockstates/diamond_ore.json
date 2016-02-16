@@ -2,9 +2,9 @@
     "variants": {
         "normal": [
             { "model": "diamond_ore" },
-            { "model": "diamond_ore_1" },
-            { "model": "diamond_ore_2" },
-            { "model": "diamond_ore_3" }
+            { "model": "ores/diamond/diamond_ore_1" },
+            { "model": "ores/diamond/diamond_ore_2" },
+            { "model": "ores/diamond/diamond_ore_3" }
         ]
     }
 }

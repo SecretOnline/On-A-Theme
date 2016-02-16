@@ -2,9 +2,9 @@
     "variants": {
         "normal": [
             { "model": "iron_ore" },
-            { "model": "iron_ore_1" },
-            { "model": "iron_ore_2" },
-            { "model": "iron_ore_3" }
+            { "model": "ores/iron/iron_ore_1" },
+            { "model": "ores/iron/iron_ore_2" },
+            { "model": "ores/iron/iron_ore_3" }
         ]
     }
 }
