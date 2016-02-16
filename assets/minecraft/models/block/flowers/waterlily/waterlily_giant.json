@@ -1,0 +1,16 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/waterlily",
+        "texture": "blocks/waterlily/waterlily_giant"
+    },
+    "elements": [
+        {   "from": [ -8, 0.23, -8 ],
+            "to": [ 24, 0.23, 24 ],
+            "faces": {
+                "down":  { "uv": [ 16, 16, 0,  0 ], "texture": "#texture", "tintindex": 0 },
+                "up":    { "uv": [ 16,  0, 0, 16 ], "texture": "#texture", "tintindex": 0 }
+            }
+        }
+    ]
+}

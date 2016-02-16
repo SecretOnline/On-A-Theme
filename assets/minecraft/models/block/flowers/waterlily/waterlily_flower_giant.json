@@ -1,0 +1,35 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/waterlily",
+        "texture": "blocks/waterlily/waterlily_giant",
+        "flower": "blocks/flowers/waterlily/waterlily_pink_flower_giant"
+    },
+    "elements": [
+        {   "from": [ -8, 0.24, -8 ],
+            "to": [ 24, 0.24, 24 ],
+            "faces": {
+                "down":  { "uv": [ 16, 16, 0,  0 ], "texture": "#texture", "tintindex": 0 },
+                "up":    { "uv": [ 16,  0, 0, 16 ], "texture": "#texture", "tintindex": 0 }
+            }
+        },
+        {   "from": [ -3.2, 0.25, 8 ],
+            "to": [ 19.6, 24.25, 8 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+            "shade": false,
+            "faces": {
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower" }
+            }
+        },
+        {   "from": [ 8, 0.25, -3.2 ],
+            "to": [ 8, 24.25, 19.6 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+            "shade": false,
+            "faces": {
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower" },
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower" }
+            }
+        }
+    ]
+}
