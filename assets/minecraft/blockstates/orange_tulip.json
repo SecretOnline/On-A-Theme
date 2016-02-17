@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "orange_tulip", "weight": 3 },
+            { "model": "flowers/tulip/orange/tulip_orange_bright_orange", "weight": 3 },
+            { "model": "flowers/tulip/orange/tulip_orange_bright_orangeyellow", "weight": 2 },
+            { "model": "flowers/tulip/orange/tulip_orange_bright_yellow" },
+            { "model": "flowers/tulip/orange/tulip_orange_orangeyellow", "weight": 3 },
+            { "model": "flowers/tulip/orange/tulip_orange_darker_orangeyellow", "weight": 3 },
+            { "model": "flowers/tulip/orange/tulip_orange_orangeyellow_orange", "weight": 3 }
+        ]
+    }
+}
