@@ -1,7 +1,7 @@
 {
     "variants": {
         "normal": [
-            { "model": "flower_rose", "weight": 40 },
+            { "model": "poppy", "weight": 40 },
             { "model": "flowers/poppy/rose", "weight": 9 },
             { "model": "flowers/poppy/rose_cyan", "weight": 1 },
             { "model": "flowers/poppy/poppy_slight_magenta", "weight": 40 },

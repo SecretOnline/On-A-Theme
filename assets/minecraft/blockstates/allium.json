@@ -1,7 +1,7 @@
 {
     "variants": {
         "normal": [
-            { "model": "flower_allium", "weight": 3 },
+            { "model": "allium", "weight": 3 },
             { "model": "flowers/allium/allium_bright_pink" },
             { "model": "flowers/allium/allium_more_purple", "weight": 3 },
             { "model": "flowers/allium/allium_more_sat", "weight": 2 },
