@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "white_tulip", "weight": 100 },
+            { "model": "flowers/tulip/white/tulip_white_black" },
+            { "model": "flowers/tulip/white/tulip_white_sepia", "weight": 100 },
+            { "model": "flowers/tulip/white/tulip_white_light_blue", "weight": 100 },
+            { "model": "flowers/tulip/white/tulip_white_light_peach", "weight": 100 },
+            { "model": "flowers/tulip/white/tulip_white_light_yellow", "weight": 100 }
+        ]
+    }
+}
