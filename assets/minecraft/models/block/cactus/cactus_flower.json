@@ -5,7 +5,7 @@
         "bottom": "blocks/cactus_bottom",
         "top": "blocks/cactus_top",
         "side": "blocks/cactus_side",
-        "flower": "blocks/flowers/waterlily/waterlily_pink_flower"
+        "flower": "blocks/cactus/cactus_pink_flower"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

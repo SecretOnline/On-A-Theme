@@ -1,6 +1,0 @@
-{
-    "parent": "block/flowers/waterlily/waterlily_flower_diag",
-    "textures": {
-        "flower": "blocks/flowers/waterlily/waterlily_pink_flower"
-    }
-}

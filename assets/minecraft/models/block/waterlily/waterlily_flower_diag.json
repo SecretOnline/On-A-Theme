@@ -2,8 +2,8 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "blocks/waterlily",
-        "texture": "blocks/waterlily",
-        "flower": "blocks/flowers/waterlily/waterlily_pink_flower"
+        "texture": "blocks/waterlily/waterlily_diag",
+        "flower": "blocks/waterlily/waterlily_pink_flower"
     },
     "elements": [
         {   "from": [ 0, 0.25, 0 ],
