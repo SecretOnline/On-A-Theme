@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "pink_tulip" },
+            { "model": "flowers/tulip/pink/tulip_bright_pink" },
+            { "model": "flowers/tulip/pink/tulip_hot_pink" },
+            { "model": "flowers/tulip/pink/tulip_more_pink" },
+            { "model": "flowers/tulip/pink/tulip_pink_lilac" },
+            { "model": "flowers/tulip/pink/tulip_pink_lilacpink" },
+            { "model": "flowers/tulip/pink/tulip_pink_low_sat" },
+            { "model": "flowers/tulip/pink/tulip_pink_more_red" },
+            { "model": "flowers/tulip/pink/tulip_pink_more_purple" },
+            { "model": "flowers/tulip/pink/tulip_pink_slight_red" }
+        ]
+    }
+}
