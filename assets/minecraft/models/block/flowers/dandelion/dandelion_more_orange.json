@@ -1,0 +1,6 @@
+{
+    "parent": "block/dandelion",
+    "textures": {
+        "cross": "blocks/flowers/dandelion/dandelion_more_orange"
+    }
+}

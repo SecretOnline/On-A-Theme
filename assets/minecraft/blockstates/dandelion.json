@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dandelion", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_slight_green", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_slight_orange", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_more_orange", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_more_yellow", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_even_more_yellow", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_yelloworange", "weight": 2 },
+            { "model": "flowers/dandelion/dandelion_yellow_centre" },
+            { "model": "flowers/dandelion/dandelion_yellow_centre_slight_yellow" }
+        ]
+    }
+}
