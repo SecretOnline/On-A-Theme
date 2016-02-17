@@ -1,0 +1,6 @@
+{
+    "parent": "block/red_tulip",
+    "textures": {
+        "cross": "blocks/flowers/tulip/red/tulip_red_dark_pink"
+    }
+}
